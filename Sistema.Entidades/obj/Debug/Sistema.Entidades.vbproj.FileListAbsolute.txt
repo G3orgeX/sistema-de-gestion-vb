@@ -1,0 +1,10 @@
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\bin\Debug\Sistema.Entidades.xml
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\obj\Debug\Sistema.Entidades.vbproj.AssemblyReference.cache
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\obj\Debug\Sistema.Entidades.Resources.resources
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\obj\Debug\Sistema.Entidades.vbproj.GenerateResource.cache
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\obj\Debug\Sistema.Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\obj\Debug\Sistema.Entidades.xml
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb

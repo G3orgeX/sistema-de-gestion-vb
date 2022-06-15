@@ -1,0 +1,15 @@
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\bin\Debug\Sistemas.Datos.dll
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\bin\Debug\Sistemas.Datos.pdb
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\bin\Debug\Sistemas.Datos.xml
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\bin\Debug\Sistema.Entidades.xml
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.vbproj.AssemblyReference.cache
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.Resources.resources
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.vbproj.GenerateResource.cache
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.vbproj.CoreCompileInputs.cache
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.vbproj.CopyComplete
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.dll
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.xml
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\obj\Debug\Sistemas.Datos.pdb
+C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Datos\bin\Debug\Sistemas.Datos.dll.config
