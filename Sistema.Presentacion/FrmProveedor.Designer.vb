@@ -102,9 +102,9 @@ Partial Class FrmProveedor
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(22, 288)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(35, 13)
+        Me.Label1.Size = New System.Drawing.Size(48, 13)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Email "
+        Me.Label1.Text = "Email  (*)"
         '
         'TxtNumDoc
         '

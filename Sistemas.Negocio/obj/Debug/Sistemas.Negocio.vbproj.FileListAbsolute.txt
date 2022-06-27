@@ -16,3 +16,21 @@ C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Negocio\o
 C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.xml
 C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.pdb
 C:\Users\D4vid\OneDrive\Escritorio\Nuevo Proyecto vb\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Datos.dll.config
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Negocio.dll
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Negocio.pdb
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Negocio.xml
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistema.Entidades.dll
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Datos.dll
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistema.Entidades.pdb
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistema.Entidades.xml
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Datos.pdb
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Datos.xml
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\bin\Debug\Sistemas.Datos.dll.config
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.vbproj.AssemblyReference.cache
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.Resources.resources
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.vbproj.GenerateResource.cache
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.vbproj.CoreCompileInputs.cache
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.vbproj.CopyComplete
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.dll
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.xml
+C:\Users\D4vid\OneDrive\Escritorio\Sismtema\Sistemas.Negocio\obj\Debug\Sistemas.Negocio.pdb

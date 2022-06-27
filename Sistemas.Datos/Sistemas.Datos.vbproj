@@ -68,6 +68,7 @@
     <Compile Include="Conexion_2.vb" />
     <Compile Include="Darticulos.vb" />
     <Compile Include="DCategoria.vb" />
+    <Compile Include="Dingreso.vb" />
     <Compile Include="DPersona.vb" />
     <Compile Include="DRol.vb" />
     <Compile Include="DUsuario.vb" />

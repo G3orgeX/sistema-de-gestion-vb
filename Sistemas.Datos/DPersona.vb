@@ -75,7 +75,7 @@ Public Class DPersona
         Try
             Dim Resultado As SqlDataReader
             Dim tabla As New DataTable
-            Dim comando As New SqlCommand("Persona_Buscar_Clientes", MyBase.conn)
+            Dim comando As New SqlCommand("Persona_buscar_clientes", MyBase.conn)
             comando.CommandType = CommandType.StoredProcedure
             comando.Parameters.Add("@valor", SqlDbType.VarChar).Value = Valor
             MyBase.conn.Open()
@@ -94,7 +94,7 @@ Public Class DPersona
         Try
             Dim Resultado As SqlDataReader
             Dim tabla As New DataTable
-            Dim comando As New SqlCommand("Persona_Buscar_Proveedores", MyBase.conn)
+            Dim comando As New SqlCommand("Persona_buscar_Proveedores", MyBase.conn)
             comando.CommandType = CommandType.StoredProcedure
             comando.Parameters.Add("@valor", SqlDbType.VarChar).Value = Valor
             MyBase.conn.Open()

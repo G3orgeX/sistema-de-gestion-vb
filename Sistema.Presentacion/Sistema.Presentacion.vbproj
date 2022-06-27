@@ -91,6 +91,12 @@
     <Compile Include="FrmClientes.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FrmIngreso.Designer.vb">
+      <DependentUpon>FrmIngreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIngreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmLogin.Designer.vb">
       <DependentUpon>FrmLogin.vb</DependentUpon>
     </Compile>
@@ -107,6 +113,12 @@
       <DependentUpon>FrmProveedor.vb</DependentUpon>
     </Compile>
     <Compile Include="FrmProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProveedor_ingreso.Designer.vb">
+      <DependentUpon>FrmProveedor_ingreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProveedor_ingreso.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Frmrol.Designer.vb">
@@ -137,6 +149,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Variables_Provedor.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Frmarticulo.resx">
@@ -148,6 +161,9 @@
     <EmbeddedResource Include="FrmClientes.resx">
       <DependentUpon>FrmClientes.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmIngreso.resx">
+      <DependentUpon>FrmIngreso.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.vb</DependentUpon>
     </EmbeddedResource>
@@ -156,6 +172,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmProveedor.resx">
       <DependentUpon>FrmProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProveedor_ingreso.resx">
+      <DependentUpon>FrmProveedor_ingreso.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frmrol.resx">
       <DependentUpon>Frmrol.vb</DependentUpon>

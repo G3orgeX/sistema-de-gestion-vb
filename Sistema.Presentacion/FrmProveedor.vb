@@ -117,7 +117,7 @@ Public Class FrmProveedor
                 Dim neg As New Negocio.NPersona
 
                 obj.IdPersona = TxtId.Text
-                obj.TipoPersona = "Proveedor"
+                obj.TipoPersona = "Proveedores"
                 obj.Nombre = TxtNombre.Text
                 obj.TipoDocumento = CboTipodoc.Text
                 obj.NumDocumento = TxtNumDoc.Text
